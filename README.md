@@ -62,4 +62,4 @@ The voting application only accepts one vote per client. It does not register vo
 
 ----
 #Pipeline
-[![Build Status](http://localhost:8080/job/instavote/job/worker%20build/badge/icon)](http://localhost:8080/job/instavote/job/worker%20build/)
+[![Build Status](https://warm-parts-invent.loca.lt/job/instavote/job/worker%20build/badge/icon)](http://localhost:8080/job/instavote/job/worker%20build/)
