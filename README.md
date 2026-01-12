@@ -58,3 +58,8 @@ Note
 ----
 
 The voting application only accepts one vote per client. It does not register votes if a vote has already been submitted from a client.
+
+
+----
+#Pipeline
+[![Build Status](http://localhost:8080/job/instavote/job/worker%20build/badge/icon)](http://localhost:8080/job/instavote/job/worker%20build/)
