@@ -61,3 +61,7 @@ The voting application only accepts one vote per client. It does not register vo
 
 
 [![Build Status](https://legal-pots-mate.loca.lt/job/instavote/job/worker%20build/badge/icon)](http://localhost:8080/job/instavote/job/worker%20build/)
+
+[![Build Status](https://legal-pots-mate.loca.lt/job/instavote/job/worker%20tests/badge/icon)](http://localhost:8080/job/instavote/job/worker%20tests/)
+
+[![Build Status](https://legal-pots-mate.loca.lt/job/instavote/job/worker%20package/badge/icon)](http://localhost:8080/job/instavote/job/worker%20package/)
